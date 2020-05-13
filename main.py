@@ -3,7 +3,7 @@ clear = lambda: os.system('cls')
 clear()
 
 # Zadanie 2
-print("Zadanie 2")
+print("Zadanie")
 divisible_by_five = []
 powers = []
 for number in range(1, 101):
